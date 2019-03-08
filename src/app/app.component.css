@@ -1,0 +1,7 @@
+.my_grid {
+    color: red;
+    display: grid;
+    grid-template-rows: 1fr 1fr;
+    padding-left: 5em;
+    padding-right: 5em;
+}
